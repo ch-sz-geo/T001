@@ -38,8 +38,8 @@ image:{myImage}[logo kt sz rgb]
 //****
 
 //* https://ch-sz-geo.github.io/A000_entrypage/[zur Startseite] +
-//* https://amandawetter.github.io/A000_Rebuild/[Übersicht T001 Dokumentation] +
-//* https://amandawetter.github.io/A000_Rebuild/docs/modelldokumentation.pdf[Dokumentation als PDF] +
+//* https://ch-sz-geo.github.io/T001/[Übersicht T001 Dokumentation] +
+//* https://ch-sz-geo.github.io/T001/docs/modelldokumentation.pdf[Dokumentation als PDF] +
 
 //****
 
