@@ -2,7 +2,7 @@
 === Ziel und Zweck
 Dieses Dokument beschreibt den Geobasisdatensatz
  
-* *__<Hier_Themenname_eingeben>__.*
+* *__TestModell__.*
 
 __<weitere Beschreibungen>__
 
